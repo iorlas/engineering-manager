@@ -1,0 +1,14 @@
+{
+  "name": "engineering-manager",
+  "owner": { "name": "iorlas" },
+  "metadata": { "description": "Engineering-manager skills for Claude Code", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "engineering-manager",
+      "source": "./",
+      "description": "delivery-metrics: DORA + PR-flow + AI-adoption report from GitHub and Jira.",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}

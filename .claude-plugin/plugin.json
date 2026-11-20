@@ -1,0 +1,8 @@
+{
+  "name": "engineering-manager",
+  "description": "Skills for engineering managers. First one, delivery-metrics: pulls GitHub and Jira data, computes DORA and PR-flow metrics at three checkpoints, and builds an offline HTML report on AI adoption and SDLC bottlenecks.",
+  "version": "0.1.0",
+  "author": { "name": "iorlas" },
+  "license": "MIT",
+  "keywords": ["dora", "engineering-metrics", "ai-adoption", "pr-cycle-time", "sdlc"]
+}
